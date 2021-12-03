@@ -25,4 +25,4 @@ Execute the program
 </html>
 
 # OUPUT
-![output]
+![output](https://github.com/sasidharan403/Experiment_Basic_HTML_Tag/blob/main/basic%20ouput.png?raw=true)
